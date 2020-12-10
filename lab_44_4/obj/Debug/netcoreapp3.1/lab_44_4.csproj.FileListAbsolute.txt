@@ -1,0 +1,13 @@
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.exe
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.deps.json
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.runtimeconfig.json
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.runtimeconfig.dev.json
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.dll
+C:\Users\ІгорВолошин\Desktop\lab_44_4\bin\Debug\netcoreapp3.1\lab_44_4.pdb
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.csprojAssemblyReference.cache
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.csproj.CoreCompileInputs.cache
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.AssemblyInfoInputs.cache
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.AssemblyInfo.cs
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.dll
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.pdb
+C:\Users\ІгорВолошин\Desktop\lab_44_4\obj\Debug\netcoreapp3.1\lab_44_4.genruntimeconfig.cache

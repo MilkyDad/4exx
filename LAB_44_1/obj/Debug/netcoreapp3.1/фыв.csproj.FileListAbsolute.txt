@@ -1,0 +1,13 @@
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.exe
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.deps.json
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.runtimeconfig.json
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.runtimeconfig.dev.json
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.dll
+C:\Users\ІгорВолошин\Desktop\фыв\bin\Debug\netcoreapp3.1\фыв.pdb
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.csprojAssemblyReference.cache
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.csproj.CoreCompileInputs.cache
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.AssemblyInfoInputs.cache
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.AssemblyInfo.cs
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.dll
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.pdb
+C:\Users\ІгорВолошин\Desktop\фыв\obj\Debug\netcoreapp3.1\фыв.genruntimeconfig.cache
